@@ -1,0 +1,9 @@
+[submodule "src/android-app/FitThesisMobileApp"]
+	path = src/android-app/FitThesisMobileApp
+	url = git@github.com:faedrielle/FitThesisMobileApp.git
+[submodule "src/thesis/bachelors-thesis-text"]
+	path = src/thesis/bachelors-thesis-text
+	url = git@github.com:faedrielle/bachelors-thesis-text.git
+[submodule "src/tizen-app/FitThesisWatchApp"]
+	path = src/tizen-app/FitThesisWatchApp
+	url = git@github.com:faedrielle/FitThesisWatchApp.git
